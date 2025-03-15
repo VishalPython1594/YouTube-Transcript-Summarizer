@@ -67,3 +67,13 @@ streamlit run app.py
 ![yt_1](https://github.com/user-attachments/assets/e932fcfd-779f-4de9-8424-d37e40ca2199)
 ![yt_2](https://github.com/user-attachments/assets/d5bdaf32-b0c7-41af-804a-2100c834ebc3)
 ![yt_3](https://github.com/user-attachments/assets/379dccf1-3044-4770-a7f4-4050a6dbbf22)
+
+## 🤝 Contributing
+Contributions are welcome! Feel free to submit a pull request if you have improvements or new features.
+
+## 📜 License
+This project is licensed under the MIT License.
+
+## 📩 Contact & Support
+📧 Email: vishal1594@outlook.com
+🔗 LinkedIn: https://www.linkedin.com/in/vishal-shivnani-87487110a/
